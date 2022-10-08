@@ -1,0 +1,12 @@
+C:\Users\niqel\source\repos\PDFConverter\ProxyMicrosoftTranslate\bin\Debug\net6.0\ProxyMicrosoftTranslate.deps.json
+C:\Users\niqel\source\repos\PDFConverter\ProxyMicrosoftTranslate\bin\Debug\net6.0\ProxyMicrosoftTranslate.dll
+C:\Users\niqel\source\repos\PDFConverter\ProxyMicrosoftTranslate\bin\Debug\net6.0\ProxyMicrosoftTranslate.pdb
+C:\Users\niqel\source\repos\PDFConverter\ProxyMicrosoftTranslate\obj\Debug\net6.0\ProxyMicrosoftTranslate.csproj.AssemblyReference.cache
+C:\Users\niqel\source\repos\PDFConverter\ProxyMicrosoftTranslate\obj\Debug\net6.0\ProxyMicrosoftTranslate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niqel\source\repos\PDFConverter\ProxyMicrosoftTranslate\obj\Debug\net6.0\ProxyMicrosoftTranslate.AssemblyInfoInputs.cache
+C:\Users\niqel\source\repos\PDFConverter\ProxyMicrosoftTranslate\obj\Debug\net6.0\ProxyMicrosoftTranslate.AssemblyInfo.cs
+C:\Users\niqel\source\repos\PDFConverter\ProxyMicrosoftTranslate\obj\Debug\net6.0\ProxyMicrosoftTranslate.csproj.CoreCompileInputs.cache
+C:\Users\niqel\source\repos\PDFConverter\ProxyMicrosoftTranslate\obj\Debug\net6.0\ProxyMicrosoftTranslate.dll
+C:\Users\niqel\source\repos\PDFConverter\ProxyMicrosoftTranslate\obj\Debug\net6.0\refint\ProxyMicrosoftTranslate.dll
+C:\Users\niqel\source\repos\PDFConverter\ProxyMicrosoftTranslate\obj\Debug\net6.0\ProxyMicrosoftTranslate.pdb
+C:\Users\niqel\source\repos\PDFConverter\ProxyMicrosoftTranslate\obj\Debug\net6.0\ref\ProxyMicrosoftTranslate.dll

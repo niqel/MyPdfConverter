@@ -1,0 +1,222 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\niqel\\source\\repos\\PDFConverter\\PDFConverter\\PDFConverter.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\niqel\\source\\repos\\PDFConverter\\PDFConverter\\PDFConverter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\niqel\\source\\repos\\PDFConverter\\PDFConverter\\PDFConverter.csproj",
+        "projectName": "PDFConverter",
+        "projectPath": "C:\\Users\\niqel\\source\\repos\\PDFConverter\\PDFConverter\\PDFConverter.csproj",
+        "packagesPath": "C:\\Users\\niqel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\niqel\\source\\repos\\PDFConverter\\PDFConverter\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\niqel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\niqel\\source\\repos\\PDFConverter\\PDFToMD\\PDFToMD.csproj": {
+                "projectPath": "C:\\Users\\niqel\\source\\repos\\PDFConverter\\PDFToMD\\PDFToMD.csproj"
+              },
+              "C:\\Users\\niqel\\source\\repos\\PDFConverter\\ProxyMicrosoftTranslate\\ProxyMicrosoftTranslate.csproj": {
+                "projectPath": "C:\\Users\\niqel\\source\\repos\\PDFConverter\\ProxyMicrosoftTranslate\\ProxyMicrosoftTranslate.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "Google.Cloud.Translation.V2": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "itext7": {
+              "target": "Package",
+              "version": "[7.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\niqel\\source\\repos\\PDFConverter\\PDFToMD\\PDFToMD.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\niqel\\source\\repos\\PDFConverter\\PDFToMD\\PDFToMD.csproj",
+        "projectName": "PDFToMD",
+        "projectPath": "C:\\Users\\niqel\\source\\repos\\PDFConverter\\PDFToMD\\PDFToMD.csproj",
+        "packagesPath": "C:\\Users\\niqel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\niqel\\source\\repos\\PDFConverter\\PDFToMD\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\niqel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\niqel\\source\\repos\\PDFConverter\\ProxyMicrosoftTranslate\\ProxyMicrosoftTranslate.csproj": {
+                "projectPath": "C:\\Users\\niqel\\source\\repos\\PDFConverter\\ProxyMicrosoftTranslate\\ProxyMicrosoftTranslate.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Google.Cloud.Translation.V2": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "itext7": {
+              "target": "Package",
+              "version": "[7.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\niqel\\source\\repos\\PDFConverter\\ProxyMicrosoftTranslate\\ProxyMicrosoftTranslate.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\niqel\\source\\repos\\PDFConverter\\ProxyMicrosoftTranslate\\ProxyMicrosoftTranslate.csproj",
+        "projectName": "ProxyMicrosoftTranslate",
+        "projectPath": "C:\\Users\\niqel\\source\\repos\\PDFConverter\\ProxyMicrosoftTranslate\\ProxyMicrosoftTranslate.csproj",
+        "packagesPath": "C:\\Users\\niqel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\niqel\\source\\repos\\PDFConverter\\ProxyMicrosoftTranslate\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\niqel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dVniOevZCGaD4SoOryN+7SynTQTaqPTcgsicjnGgLrTUO7a6yNkaRhnOoFBWsko/ajE+qUpJB+ChAASOL6c1YA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\niqel\\source\\repos\\PDFConverter\\ProxyMicrosoftTranslate\\ProxyMicrosoftTranslate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\niqel\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

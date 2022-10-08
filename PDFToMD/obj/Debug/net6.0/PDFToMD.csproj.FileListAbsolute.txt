@@ -1,0 +1,15 @@
+C:\Users\niqel\source\repos\PDFConverter\PDFToMD\bin\Debug\net6.0\PDFToMD.deps.json
+C:\Users\niqel\source\repos\PDFConverter\PDFToMD\bin\Debug\net6.0\PDFToMD.dll
+C:\Users\niqel\source\repos\PDFConverter\PDFToMD\bin\Debug\net6.0\PDFToMD.pdb
+C:\Users\niqel\source\repos\PDFConverter\PDFToMD\obj\Debug\net6.0\PDFToMD.csproj.AssemblyReference.cache
+C:\Users\niqel\source\repos\PDFConverter\PDFToMD\obj\Debug\net6.0\PDFToMD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niqel\source\repos\PDFConverter\PDFToMD\obj\Debug\net6.0\PDFToMD.AssemblyInfoInputs.cache
+C:\Users\niqel\source\repos\PDFConverter\PDFToMD\obj\Debug\net6.0\PDFToMD.AssemblyInfo.cs
+C:\Users\niqel\source\repos\PDFConverter\PDFToMD\obj\Debug\net6.0\PDFToMD.csproj.CoreCompileInputs.cache
+C:\Users\niqel\source\repos\PDFConverter\PDFToMD\obj\Debug\net6.0\PDFToMD.dll
+C:\Users\niqel\source\repos\PDFConverter\PDFToMD\obj\Debug\net6.0\refint\PDFToMD.dll
+C:\Users\niqel\source\repos\PDFConverter\PDFToMD\obj\Debug\net6.0\PDFToMD.pdb
+C:\Users\niqel\source\repos\PDFConverter\PDFToMD\obj\Debug\net6.0\ref\PDFToMD.dll
+C:\Users\niqel\source\repos\PDFConverter\PDFToMD\bin\Debug\net6.0\ProxyMicrosoftTranslate.dll
+C:\Users\niqel\source\repos\PDFConverter\PDFToMD\bin\Debug\net6.0\ProxyMicrosoftTranslate.pdb
+C:\Users\niqel\source\repos\PDFConverter\PDFToMD\obj\Debug\net6.0\PDFToMD.csproj.CopyComplete
